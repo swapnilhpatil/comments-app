@@ -2,7 +2,7 @@ import React from 'react';
 import { AppBar, Toolbar, Typography, IconButton, Avatar, Popover, Box, Divider } from '@mui/material';
 import ProfileCard from '../profile-card';
 
-const Header = () => {
+const Header = ({ setIsLoggedIn }) => {
   const [anchorEl, setAnchorEl] = React.useState(null);
 
   const handleMenu = (event) => {
@@ -17,6 +17,7 @@ const Header = () => {
   const id = open ? 'simple-popover' : undefined;
 
   const handleLogout = () => {
+    setIsLoggedIn(false);
     handleClose();
   };
 
