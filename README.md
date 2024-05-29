@@ -1,3 +1,10 @@
+#Screens for Demo
+### Login
+![image](https://github.com/swapnilhpatil/comments-app/assets/29859506/b6350564-5f69-4d5d-b153-ecab8fa8452e)
+
+### Comments Page
+![image](https://github.com/swapnilhpatil/comments-app/assets/29859506/38427718-8c6a-4958-857f-a07c30c654ce)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
