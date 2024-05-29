@@ -5,6 +5,7 @@ import '@fontsource/roboto/400.css';
 import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 import Login from './components/login';
+import Header from './components/header';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           Learn React
         </a>
       </header> */}
+      <Header/>
       <Login/>
     </div>
   );
