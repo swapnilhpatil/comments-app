@@ -70,12 +70,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ### Commands to install libraries
+### `npm install @mui/material @emotion/react @emotion/styled`
 
-npm install @mui/material @emotion/react @emotion/styled
+### `npm install @fontsource/roboto`
 
-npm install @fontsource/roboto
-
-npm install @mui/icons-material
+### `npm install @mui/icons-material`
 
 use version react-router-dom@5
-npm install react-router-dom@5
+### `npm install react-router-dom@5`
+
